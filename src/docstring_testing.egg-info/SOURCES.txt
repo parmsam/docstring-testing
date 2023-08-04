@@ -1,0 +1,5 @@
+setup.py
+docstring_testing.egg-info/PKG-INFO
+docstring_testing.egg-info/SOURCES.txt
+docstring_testing.egg-info/dependency_links.txt
+docstring_testing.egg-info/top_level.txt
