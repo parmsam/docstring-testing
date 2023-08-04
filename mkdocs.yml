@@ -1,0 +1,7 @@
+site_name: Calculations with Python
+plugins:
+  - search
+  - mkdocstrings
+theme: material
+nav:
+  - Overview: index.md
